@@ -1,0 +1,6 @@
+{
+  "name": "Young Adults Education Center",
+  "description": "A highly-polished, modern, animated website for the Young Adults Education Center in Uzbekistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
